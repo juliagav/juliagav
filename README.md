@@ -37,7 +37,7 @@ A project that showcases UI/UX skills and leverages data-driven insights.
 
 - 🎹 I play piano  
 - 🧘 yoga practitioner   
-- 🥜 love pistachio  
+- 🥜 pistachio lover  
 - 🏰 Disney fan 
 
 ---
