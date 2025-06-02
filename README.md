@@ -1,7 +1,7 @@
 # Hi, I'm Julia Gavioli 👋
 
-**Detail-oriented Data Analyst** with hands-on experience in KPI development, process automation, and ERP (SAP) implementation.  
-Skilled in using tools like **Databricks, Power BI, SQL, and Python** for insightful data visualization.
+**Detail-oriented Software Engineer** with hands-on experience in KPI development, process automation, and ERP (SAP) implementation.  
+Skilled in using tools like **Databricks, JavaScript, SQL, MongoDB, React, Node.js, Python** for insightful data visualization.
 
 ---
 
